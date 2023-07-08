@@ -6,16 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou estudante de programação, e o meu foco é me tornar um dev fullstack. Este é o meu canal no Youtube
-    <a href="https://www.youtube.com/channel/UCqNKOhy2HzOrpkazFaR2cUQ" target="_blank">
-      <img
-           width="10%" 
-           align="center" 
-           valign="middle" 
-           src="https://img.shields.io/youtube/channel/subscribers/UCViaNBT0SIeiVnZSEEtIfjw?label=Canal do Programatico&style=social" 
-           target="_blank" 
-      />
-    </a>  
+    Sou estudante de programação, e o meu foco é me tornar um dev fullstack. Estou sempre em busca de novos conhecimentos 
   </p>
   
   <p align="center">
